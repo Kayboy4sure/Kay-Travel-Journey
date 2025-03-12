@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+}
+
+header {
+    padding: 10px;
+    margin: 10px;
+    background-color: red;
+    border-radius: 10px 10px 0px 0px;
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    width: 20px;
+}
+
+h4 {
+    color: white;
+}
+
+article {
+    padding: 40px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+article > div {
+    padding: 0px 10px;
+}
+
+article > div > span {
+    display: flex;
+    align-items: center;
+}
+
+article > div > span > a {
+    margin-left: 10px;
+}
+
+article > img {
+    width: 200px;
+    border-radius: 10px;
+    border: none;
+}
+

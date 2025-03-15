@@ -1,5 +1,5 @@
-import HeaderContent from "./components/header"
-import BodyContent from "./components/body"
+import HeaderContent from "./components/Header"
+import BodyContent from "./components/Body"
 import ContactContent from "./components/contact"
 import data from "./data/journeydata"
 
